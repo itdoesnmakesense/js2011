@@ -1,0 +1,15 @@
+myFirebaseRef.set({
+  "family": [
+    {
+      "name": "Joe Rodriguez",
+      "age": 51,
+      "gender": "male",
+      "skills": [
+        "burping",
+        "farting",
+        "inappropriate shouting",
+        "tantrums"
+      ]
+    }
+  ]
+});///
